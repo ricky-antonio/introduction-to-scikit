@@ -1,0 +1,29 @@
+# Conda environment
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor configs
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment/config files
+*.env
+*.yml
+*.yaml
+
+# Caches
+*.cache/
+.cache/
